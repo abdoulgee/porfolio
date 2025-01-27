@@ -1,8 +1,1 @@
-# hectorthewebdev.github.io
-I'm a Front-end Web developer and expert in web design and I'm quite personate about what i do. 
-
-I've received intense frontend Development training for months, and i now have the abilities and expertise required to finish your project successfully and fully satisfied. 
-
-I specialize in solving problems and helping startups and freelancers create the perfect online presence. 
-
-I’m passionate about creating stunning websites that work seamlessly on both mobile and desktop devices.
+I'm a Python developer skilled in automation, backend development, security tools, web development, and mobile app development. With a strong foundation in Frontend Web Development and web design, I’ve completed intensive training that has equipped me to deliver projects with precision and complete client satisfaction. I specialize in solving complex problems and helping startups and freelancers create an impactful online presence. I’m passionate about building websites and applications that are not only visually stunning but also work flawlessly across mobile and desktop platforms. My work also extends to creating innovative automation solutions and powerful security tools, combining efficiency with cutting-edge protection. Let’s collaborate to bring your vision to life with exceptional results!.
